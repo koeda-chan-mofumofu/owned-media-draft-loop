@@ -1,0 +1,10 @@
+# 素材・下書き・指標データはリポジトリに含めない（機密情報が入り得るため）
+/source/inbox/*
+/source/approved/*
+/source/briefs/*
+/output/draft/*
+/output/review/*
+/output/publish-ready/*
+/metrics/raw/*
+
+!**/.gitkeep
